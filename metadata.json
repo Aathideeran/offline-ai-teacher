@@ -1,0 +1,6 @@
+{
+  "name": "Offline AI Doubt Solver",
+  "description": "A private, offline-first educational assistant for Class 10 Mathematics and Science with step-by-step math verification, local syllabus search, spaced revision, and modular local Gemma 4 inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
